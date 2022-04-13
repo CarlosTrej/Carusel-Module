@@ -15,7 +15,7 @@ body{
     color:#fff;
 }
 .content{
-    max-width: 61rem;
+    max-width: 78rem;
     padding-left: 1rem;
     padding-right: 1rem;
     margin: auto;
@@ -63,10 +63,11 @@ body{
 }
 footer{
     position: absolute;
-    width: 109vw;
+    width: 100vw;
     background-color: #080808;
     min-height: 100px;
-    margin: 110px 0;
+    bottom : -60%;
+    
 }
 
 footer .social_icon,
